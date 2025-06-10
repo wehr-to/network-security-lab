@@ -1,0 +1,1 @@
+# Inline vs passive detection
